@@ -22,6 +22,7 @@ public class User {
 	private String email;
 	private String role; //ROLE_USER, ROLE_ADMIN
 	private String test1;
+	private String test2;
 	
 	private String provider;
 	private String providerId;
